@@ -1,1 +1,1 @@
-# WEB bootcamp, Ларин Артём
+# WebDev Bootcamp, Ларин Артём
