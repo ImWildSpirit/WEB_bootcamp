@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/WEB_bootcamp/static/css/main.ca2d7dfb.chunk.css",
+    "main.js": "/WEB_bootcamp/static/js/main.62c12407.chunk.js",
+    "main.js.map": "/WEB_bootcamp/static/js/main.62c12407.chunk.js.map",
+    "runtime-main.js": "/WEB_bootcamp/static/js/runtime-main.1a7379f1.js",
+    "runtime-main.js.map": "/WEB_bootcamp/static/js/runtime-main.1a7379f1.js.map",
+    "static/css/2.04716422.chunk.css": "/WEB_bootcamp/static/css/2.04716422.chunk.css",
+    "static/js/2.26db1cbc.chunk.js": "/WEB_bootcamp/static/js/2.26db1cbc.chunk.js",
+    "static/js/2.26db1cbc.chunk.js.map": "/WEB_bootcamp/static/js/2.26db1cbc.chunk.js.map",
+    "index.html": "/WEB_bootcamp/index.html",
+    "precache-manifest.23ba84df69e5655c0b0966f1cda5e3d1.js": "/WEB_bootcamp/precache-manifest.23ba84df69e5655c0b0966f1cda5e3d1.js",
+    "service-worker.js": "/WEB_bootcamp/service-worker.js",
+    "static/css/2.04716422.chunk.css.map": "/WEB_bootcamp/static/css/2.04716422.chunk.css.map",
+    "static/css/main.ca2d7dfb.chunk.css.map": "/WEB_bootcamp/static/css/main.ca2d7dfb.chunk.css.map",
+    "static/js/2.26db1cbc.chunk.js.LICENSE.txt": "/WEB_bootcamp/static/js/2.26db1cbc.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/WEB_bootcamp/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/WEB_bootcamp/static/media/ITN_logo.2f311a05.svg",
+    "static/media/city_planing.jpg": "/WEB_bootcamp/static/media/city_planing.a64e583d.jpg",
+    "static/media/energetics.jpg": "/WEB_bootcamp/static/media/energetics.09be2caf.jpg",
+    "static/media/energy.jpg": "/WEB_bootcamp/static/media/energy.0ffbaf04.jpg",
+    "static/media/HeroBlock.scss": "/WEB_bootcamp/static/media/hero-bg.3573d221.jpg",
+    "static/media/industry.jpg": "/WEB_bootcamp/static/media/industry.fdca9895.jpg",
+    "static/media/shid_emozhl_logo.svg": "/WEB_bootcamp/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/slide-1.jpg": "/WEB_bootcamp/static/media/slide-1.6531ed82.jpg",
+    "static/media/slide-2.jpg": "/WEB_bootcamp/static/media/slide-2.d9c68c63.jpg",
+    "static/media/slide-3.jpg": "/WEB_bootcamp/static/media/slide-3.d7a72b2e.jpg",
+    "static/media/slide-4.jpg": "/WEB_bootcamp/static/media/slide-4.7bfe11a5.jpg",
+    "static/media/slide-5.jpg": "/WEB_bootcamp/static/media/slide-5.23f55f0b.jpg",
+    "static/media/transport.jpg": "/WEB_bootcamp/static/media/transport.963e94bb.jpg",
+    "static/media/utilisation.jpg": "/WEB_bootcamp/static/media/utilisation.e5d42378.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a7379f1.js",
+    "static/css/2.04716422.chunk.css",
+    "static/js/2.26db1cbc.chunk.js",
+    "static/css/main.ca2d7dfb.chunk.css",
+    "static/js/main.62c12407.chunk.js"
+  ]
+}
